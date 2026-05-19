@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Clipen</title>
+        <link>https://github.com/pinni-vamshi/clipen-releases</link>
+        <description>Clipen for macOS</description>
+        <language>en</language>
+        <item>
+            <title>Version 1.0</title>
+            <pubDate>Mon, 19 May 2026 07:36:00 +0000</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.0/Clipen.dmg"
+                       sparkle:version="1"
+                       sparkle:shortVersionString="1.0"
+                       sparkle:edSignature="p+NEzoNNmgXUZV8xoK4swJ4IvnfKayJ9301gH1ihXNksVmLq9YkLdKc8uI1hXlYLVzlqvYZwre+kvFP6RivIDQ=="
+                       length="1719286"
+                       type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
