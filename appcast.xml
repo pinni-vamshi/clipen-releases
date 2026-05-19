@@ -1,21 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
     <channel>
         <title>Clipen</title>
         <link>https://github.com/pinni-vamshi/clipen-releases</link>
         <description>Clipen for macOS</description>
         <language>en</language>
         <item>
+            <title>1.0.2</title>
+            <pubDate>Tue, 19 May 2026 14:15:34 +0530</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.0.2/Clipen.dmg" length="2697942" type="application/octet-stream" sparkle:edSignature="IcLVli9SuyTxdw151s7iT8b/HC6kLifEMYuc1Si0Vr1lfWqefbNHceFDctrX3GDxvK4kpMyWPq2KucbT0aCaDA=="/>
+        </item>
+        <item>
             <title>Version 1.0.1</title>
             <pubDate>Tue, 19 May 2026 08:36:18 +0000</pubDate>
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.0.1/Clipen.dmg"
-                       sparkle:version="3"
-                       sparkle:shortVersionString="1.0.1"
-                       sparkle:edSignature="EDe4m/ZlFe2d8hM9YvHVFuWnMYKzoO07Z0TSVCcyZ7K8UCHG24QriOAPn7ghI4UmSl8cSXyZzjOwHYWnwolECQ=="
-                       length="2693474"
-                       type="application/octet-stream"/>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.0.1/Clipen.dmg" sparkle:version="3" sparkle:shortVersionString="1.0.1" sparkle:edSignature="EDe4m/ZlFe2d8hM9YvHVFuWnMYKzoO07Z0TSVCcyZ7K8UCHG24QriOAPn7ghI4UmSl8cSXyZzjOwHYWnwolECQ==" length="2693474" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
