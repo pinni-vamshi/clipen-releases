@@ -11,7 +11,7 @@
             <sparkle:version>4</sparkle:version>
             <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.0.2/Clipen.dmg" length="2697942" type="application/octet-stream" sparkle:edSignature="IcLVli9SuyTxdw151s7iT8b/HC6kLifEMYuc1Si0Vr1lfWqefbNHceFDctrX3GDxvK4kpMyWPq2KucbT0aCaDA=="/>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.0.2/Clipen.dmg" length="2975922" type="application/octet-stream" sparkle:edSignature="dJHrYrp+Brib3KHOZjWdI9BauRWky1dctBoiF6piErc6yOKoHph5W63EIK0YLubpZre6CV5gVcGB6tCH6QD0AQ=="/>
         </item>
         <item>
             <title>Version 1.0.1</title>
