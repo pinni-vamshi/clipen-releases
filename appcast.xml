@@ -9,9 +9,9 @@
             <title>1.0.70</title>
             <pubDate>Sat, 30 May 2026 01:57:55 +0530</pubDate>
             <sparkle:version>72</sparkle:version>
-            <sparkle:shortVersionString>1.0.72</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.0.73</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.0.72/Clipen.dmg" length="3950030" type="application/octet-stream" sparkle:edSignature="tM+XijZgsJ/3RrUVCCIIg8BClmJIt2zBP4hhvnywGa+zyte7X6fF2K8S1teSbqR2e/3osio3NATfp/a5BTfeDA=="/>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.0.73/Clipen.dmg" length="3950821" type="application/octet-stream" sparkle:edSignature="QOCjMTRfZQwYiZFzvjoSa03HlLNFzeBR0lpted7+ywhShCqoYgQgK0jL5Nsq30fHwPYf0eYaGV1Igs4iisNYCQ=="/>
         </item>
         <item>
             <title>1.0.68</title>
