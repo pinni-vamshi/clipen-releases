@@ -6,12 +6,12 @@
         <description>Clipen for macOS</description>
         <language>en</language>
         <item>
-            <title>1.0.69</title>
-            <pubDate>Fri, 29 May 2026 23:33:00 +0530</pubDate>
+            <title>1.0.70</title>
+            <pubDate>Sat, 30 May 2026 01:57:55 +0530</pubDate>
             <sparkle:version>72</sparkle:version>
-            <sparkle:shortVersionString>1.0.69</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.0.70</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.0.69/Clipen.dmg" length="3602841" type="application/octet-stream" sparkle:edSignature="nZGiuqixGiiLTVB/+cBtGKde6YwdxNG2zTU/g7yk+LUJqoNanj0YcNv9pAkzp/InBlNEswx1aXfYKsaAZT0wCQ=="/>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.0.70/Clipen.dmg" length="3914945" type="application/octet-stream" sparkle:edSignature="KduCTqQP2fvunP2mdrfocyt0QLdk6HCGwzum+kNNf1IPukSKxqbgEPqPbSAmwODl1VmjdCRFgT5JX+Dc6zVMDA=="/>
         </item>
         <item>
             <title>1.0.68</title>
@@ -28,14 +28,6 @@
             <sparkle:shortVersionString>1.0.67</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.0.67/Clipen.dmg" length="3999182" type="application/octet-stream" sparkle:edSignature="pQH83PfNcaYEGhrIBrf7d/rqi8P2rfor29Rb+iu1aizXtBZXrQZDEQIwWSrXReNxIaYanhN08pUmvqjShpbJDA=="/>
-        </item>
-        <item>
-            <title>1.0.66</title>
-            <pubDate>Fri, 29 May 2026 21:28:33 +0530</pubDate>
-            <sparkle:version>69</sparkle:version>
-            <sparkle:shortVersionString>1.0.66</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.0.66/Clipen.dmg" length="3998337" type="application/octet-stream" sparkle:edSignature="dAM9KXVQKw5yj6fhUoZaWBCVt+R0oNYriX9GlmsqpEfgD/O8FHujYc0gSfUgazm5DEUkSfgkU9yDsy0FtdbECg=="/>
         </item>
         <item>
             <title>Version 1.0.1</title>
