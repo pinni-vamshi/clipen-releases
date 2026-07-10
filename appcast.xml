@@ -6,6 +6,14 @@
         <description>Clipen for macOS</description>
         <language>en</language>
         <item>
+            <title>1.0.157</title>
+            <pubDate>Fri, 10 Jul 2026 12:46:55 +0530</pubDate>
+            <sparkle:version>155</sparkle:version>
+            <sparkle:shortVersionString>1.0.157</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.0.157/Clipen.dmg" length="4575853" type="application/octet-stream" sparkle:edSignature="UiGxjcsN8xJEnjFYlhY1gkFYtR4zHMHY28GVAZMGjk6tFjmVi3H340n5o/SSqzGQN1lOugWe2n3Kr2o04pZ7AQ=="/>
+        </item>
+        <item>
             <title>1.0.156</title>
             <pubDate>Fri, 10 Jul 2026 12:25:51 +0530</pubDate>
             <sparkle:version>154</sparkle:version>
@@ -20,14 +28,6 @@
             <sparkle:shortVersionString>1.0.155</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.0.155/Clipen.dmg" length="4551088" type="application/octet-stream" sparkle:edSignature="U6VTD4Jf8AALDRNT6AI2VfseNgOkQ9NrsWzxiANE7ORHbnPq/HZLfgBGw3fS7p+rz56pze4kkKQPHfj5vK+aCQ=="/>
-        </item>
-        <item>
-            <title>1.0.154</title>
-            <pubDate>Fri, 10 Jul 2026 12:10:34 +0530</pubDate>
-            <sparkle:version>152</sparkle:version>
-            <sparkle:shortVersionString>1.0.154</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.0.154/Clipen.dmg" length="4550568" type="application/octet-stream" sparkle:edSignature="NvxaIxBIbwur0IXM54QWN4CYUXq8acB0W+n0wEZLOolUiBKMqO/wtqznYYVUgOb5YdJz3PSbhSbxlxeGo7zkCg=="/>
         </item>
         <item>
             <title>Version 1.0.1</title>
