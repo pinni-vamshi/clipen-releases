@@ -6,6 +6,14 @@
         <description>Clipen for macOS</description>
         <language>en</language>
         <item>
+            <title>1.0.186</title>
+            <pubDate>Sun, 12 Jul 2026 03:02:15 +0530</pubDate>
+            <sparkle:version>186</sparkle:version>
+            <sparkle:shortVersionString>1.0.186</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.0.186/Clipen.dmg" length="6003406" type="application/octet-stream" sparkle:edSignature="HKfn9yqaUVoEoxH9nfBjMSZXOXqi6Y4wjRJ9Vs8Flq6P7iMpWsR0diFFLMrbou+KmdOVz5Oua+aCLpa5O6r5CQ=="/>
+        </item>
+        <item>
             <title>1.0.185</title>
             <pubDate>Sun, 12 Jul 2026 02:37:31 +0530</pubDate>
             <sparkle:version>185</sparkle:version>
