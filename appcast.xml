@@ -10,6 +10,7 @@
             <pubDate>Sun, 19 Jul 2026 00:38:22 +0530</pubDate>
             <sparkle:version>239</sparkle:version>
             <sparkle:shortVersionString>1.0.239</sparkle:shortVersionString>
+            <sparkle:channel>beta</sparkle:channel>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.0.239/Clipen.dmg" length="5848447" type="application/octet-stream" sparkle:edSignature="LO9IxSVhbeTn/rE0Xz2G70tD1xbWAfx6xsCd2hwM6ANVTfpkzOpEZUkXC/HLry8WlEID49ZqDgrDf5F88RF8Aw=="/>
         </item>
