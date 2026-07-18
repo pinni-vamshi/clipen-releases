@@ -11,6 +11,7 @@
             <sparkle:version>219</sparkle:version>
             <sparkle:shortVersionString>1.0.219</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:channel>beta</sparkle:channel>
             <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.0.219/Clipen.dmg" length="5789759" type="application/octet-stream" sparkle:edSignature="RJZfdJg3noqsarVa4sn54USaC8hlbsaq9dvvbBcfwv2Dn4rNVdXPVkQ/SBS1csGMnj9Bax54UItAkTnKJRm1DQ=="/>
         </item>
         <item>
@@ -19,6 +20,7 @@
             <sparkle:version>218</sparkle:version>
             <sparkle:shortVersionString>1.0.218</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:channel>beta</sparkle:channel>
             <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.0.218/Clipen.dmg" length="5788447" type="application/octet-stream" sparkle:edSignature="X6xcqJfSBNA/67SnMzsDb4v2H6ONzT08zuP3XPCRINryH5pn2aY94faUvrRz3dVqcd0iGhdLioqEaiTXexWfAg=="/>
         </item>
         <item>
@@ -27,6 +29,7 @@
             <sparkle:version>217</sparkle:version>
             <sparkle:shortVersionString>1.0.217</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:channel>beta</sparkle:channel>
             <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.0.217/Clipen.dmg" length="5778298" type="application/octet-stream" sparkle:edSignature="njF6uQ7l1ux0ssrAM1UlTOVyAGa8DApVfZ2CCzdCkkYiY9K0rWKMtV+qS/ML80dcGhwAjlJINu41AGFvSzAvCA=="/>
         </item>
         <item>
