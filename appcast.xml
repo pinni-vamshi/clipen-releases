@@ -11,6 +11,7 @@
             <sparkle:version>206</sparkle:version>
             <sparkle:shortVersionString>1.0.206</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:channel>beta</sparkle:channel>
             <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.0.206/Clipen.dmg" length="5737473" type="application/octet-stream" sparkle:edSignature="SWT2kUa3Fp54TlfMG3KJZ/qCRpMf7IYfoqZVjpzBiBDoM8hz3Cwp6D4WZC9seWk+3LfzqJQodlONvQALk23aDg=="/>
         </item>
         <item>
