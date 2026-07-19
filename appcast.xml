@@ -6,11 +6,18 @@
         <description>Clipen for macOS</description>
         <language>en</language>
         <item>
+            <title>1.1.0</title>
+            <pubDate>Mon, 20 Jul 2026 01:51:22 +0530</pubDate>
+            <sparkle:version>255</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.1.0/Clipen.dmg" length="6026786" type="application/octet-stream" sparkle:edSignature="HaVyVh2FjVnJVcOJdqbaEdEqFbtbEGCb2dKG+a3ACDVA9WheNuvTMdDrRtrkdePjr5/3NP5eBUdTMK1SrR+0Aw=="/>
+        </item>
+        <item>
             <title>1.0.254</title>
             <pubDate>Mon, 20 Jul 2026 01:39:38 +0530</pubDate>
             <sparkle:version>254</sparkle:version>
             <sparkle:shortVersionString>1.0.254</sparkle:shortVersionString>
-            <sparkle:channel>beta</sparkle:channel>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.0.254/Clipen.dmg" length="6025423" type="application/octet-stream" sparkle:edSignature="zrvOdSOQlFydf9Pbsv4RnDXhSYNh8yL3lN01I+oO0RymAsCZn8B36rsi+1RZDH5m1wO0JSJCN+U4xbt7YwsABA=="/>
         </item>
@@ -21,14 +28,6 @@
             <sparkle:shortVersionString>1.0.253</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.0.253/Clipen.dmg" length="6021030" type="application/octet-stream" sparkle:edSignature="M5i3mq9ry1s8iwuYpwYpka0wILPgRlGsLxbg+4bHJLXOJ7NbBfM2VSucaL3z601ydK7DWXqd80dClbmmv1DcDw=="/>
-        </item>
-        <item>
-            <title>1.0.252</title>
-            <pubDate>Mon, 20 Jul 2026 01:09:12 +0530</pubDate>
-            <sparkle:version>252</sparkle:version>
-            <sparkle:shortVersionString>1.0.252</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.0.252/Clipen.dmg" length="6020623" type="application/octet-stream" sparkle:edSignature="FnEUqd40maKcwzjuXEehu5awLe5z2fu8RpKvB7nFoLe7g94r+Vr72UYfbzlRecGZDcpIWehbFYCZsWTymXSCDg=="/>
         </item>
         <item>
             <title>Version 1.0.1</title>
