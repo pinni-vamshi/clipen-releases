@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
     <channel>
-        <title>Clipen</title>
+        <title>Cyclip</title>
         <link>https://github.com/pinni-vamshi/clipen-releases</link>
-        <description>Clipen for macOS</description>
+        <description>Cyclip for macOS</description>
         <language>en</language>
         <item>
             <title>1.2.2</title>
             <pubDate>Fri, 24 Jul 2026 18:10:28 +0530</pubDate>
             <sparkle:version>263</sparkle:version>
             <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
+            <sparkle:channel>beta</sparkle:channel>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.2.2/Cyclip.dmg" length="8604138" type="application/octet-stream" sparkle:edSignature="W2i6IqRQkTKgC2A/Jf9rj/cQ5tT6YcDSqEps7xSrqbeo2Ur4lLiywzEHbfAiCAgTfvpHL97E1kypD2w93bwqDg=="/>
             <sparkle:deltas>
