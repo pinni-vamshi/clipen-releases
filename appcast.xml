@@ -6,11 +6,21 @@
         <description>Clipen for macOS</description>
         <language>en</language>
         <item>
+            <title>1.2.4</title>
+            <pubDate>Fri, 24 Jul 2026 22:04:08 +0530</pubDate>
+            <sparkle:version>265</sparkle:version>
+            <sparkle:shortVersionString>1.2.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.2.4/Clipen.dmg" length="8609369" type="application/octet-stream" sparkle:edSignature="Ss58CgvwiTtdBuat7azRpXlM9T0udL4wKKY7Cof5qmZdKmFhaQaUPCpzSmAgK79kJM+cRScHM8SDWGww8p3RBw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.2.4/Clipen265-263.delta" sparkle:deltaFrom="263" length="2603386" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="iinIBySneuVe3apf6pX5B/8E0xnqkF/isoSnkmtlyxsOTEo8cilERTj0fiTz/V7DQwhlqCHvyFwbatp8760oAA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.2.3</title>
             <pubDate>Fri, 24 Jul 2026 21:49:36 +0530</pubDate>
             <sparkle:version>264</sparkle:version>
             <sparkle:shortVersionString>1.2.3</sparkle:shortVersionString>
-            <sparkle:channel>beta</sparkle:channel>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.2.3/Clipen.dmg" length="8610992" type="application/octet-stream" sparkle:edSignature="/NXxZLHiO93yFaPwfo/HHzXWcnKxX1vXQZ/2xSohEv5bIV5tcNOoKa9B2R+aHATImK5222mBuY4PNrlvb4tGAw=="/>
             <sparkle:deltas>
@@ -23,18 +33,10 @@
             <sparkle:version>263</sparkle:version>
             <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.2.3/Cyclip.dmg" length="8604138" type="application/octet-stream" sparkle:edSignature="W2i6IqRQkTKgC2A/Jf9rj/cQ5tT6YcDSqEps7xSrqbeo2Ur4lLiywzEHbfAiCAgTfvpHL97E1kypD2w93bwqDg=="/>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.2.4/Cyclip.dmg" length="8604138" type="application/octet-stream" sparkle:edSignature="W2i6IqRQkTKgC2A/Jf9rj/cQ5tT6YcDSqEps7xSrqbeo2Ur4lLiywzEHbfAiCAgTfvpHL97E1kypD2w93bwqDg=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.2.2/Cyclip263-262.delta" sparkle:deltaFrom="262" length="2604210" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="VxNvYCU0IehXYfBm7oLsHBKVo/EPZwooMk68A6KkvRuQmMeTTXaCZ9ytdaPgz8CadqMtkjbKKiqpeFb/ysQZDA=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.2.1</title>
-            <pubDate>Fri, 24 Jul 2026 03:25:10 +0530</pubDate>
-            <sparkle:version>262</sparkle:version>
-            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.2.2/Clipen.dmg" length="8589904" type="application/octet-stream" sparkle:edSignature="NJ99WLoDm3yxMaS3TkcrcIzz2CL8A43f9EUa7Lq2mAFE3jSPIREZGT6CkP9oERiUD4SXKTYkF8tIj09yv4mTCg=="/>
         </item>
         <item>
             <title>Version 1.0.1</title>
