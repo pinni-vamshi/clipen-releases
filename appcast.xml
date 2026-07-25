@@ -6,6 +6,17 @@
         <description>Clipen for macOS</description>
         <language>en</language>
         <item>
+            <title>1.3.5</title>
+            <pubDate>Sat, 25 Jul 2026 16:35:25 +0530</pubDate>
+            <sparkle:version>276</sparkle:version>
+            <sparkle:shortVersionString>1.3.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.3.5/Clipen.dmg" length="6241302" type="application/octet-stream" sparkle:edSignature="5p/KrEoSGvukBX2mzSsWelY0//+YkQLWUTZZ93N+HI85t/dzrciPYnFKORv/3dOXQz4iFd1pYH3+URn7B+yJBA==" />
+            <sparkle:deltas>
+                <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.3.5/Clipen276-263.delta" sparkle:deltaFrom="263" length="2696742" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="eBp0w4Etf/KVNNV67a1+qRsZquFgat9zXBDPlB0ztvvdPiVelhTwrqt4i2reVJ3ZoAbXieC+4SoX0DQ7GK0vDw==" />
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.3.4</title>
             <pubDate>Sat, 25 Jul 2026 15:43:34 +0530</pubDate>
             <sparkle:version>275</sparkle:version>
