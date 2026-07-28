@@ -10,9 +10,8 @@
             <pubDate>Tue, 28 Jul 2026 18:29:34 +0530</pubDate>
             <sparkle:version>318</sparkle:version>
             <sparkle:shortVersionString>1.3.8</sparkle:shortVersionString>
-            <sparkle:channel>beta</sparkle:channel>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.3.8/Clipen.dmg" length="6378653" type="application/octet-stream" sparkle:edSignature="Ma5ZK8KOkOKQwpDftWJ8xgGItc3qD6Akue93b7QhKDSSDrYo9rvR5waWZJYm1//RmLcKuOIPFsQgpJ6KJCUkCA==" />
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.3.8/Clipen.dmg" length="6378443" type="application/octet-stream" sparkle:edSignature="S4iqzoxfLd9Q1GA7EYgO9fK3gEbqN/vKlKlLYdBbaQCnUQGsqYk50KKk8eMEjbDgwLWuVsjRNAUc9dXJllpXCA==" />
             <sparkle:deltas>
                 <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.3.8/Clipen318-263.delta" sparkle:deltaFrom="263" length="2790718" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="TufXMogN7UXaq9ChuXqxnRb8pEMD3IT8v+ddgeQ6daNiU8mh1AMdCJ0Rb7PhkDnn5PA3zIYoC4QKWJYJ4b+8Cg==" />
             </sparkle:deltas>
