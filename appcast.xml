@@ -12,7 +12,7 @@
             <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
             <sparkle:channel>beta</sparkle:channel>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.4.0/Clipen.dmg" length="6478797" type="application/octet-stream" sparkle:edSignature="gqaqGKx/mgGagsh1p6jp3hda2STAyeuvl4HXNfW0xezgphWrltzOb5TBX/i/Yi26RXt/EsRmnpbc4/wPHw5hDQ==" />
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.4.0/Clipen.dmg" length="6473987" type="application/octet-stream" sparkle:edSignature="zdn+hLJiHxz/7jkDSg0+WV4tN+03yIgCQxAQoNsSSjldMRJY2cuvo9wV/aygYedzlTsp9AwRNGKtEY9J0OqrDg==" />
             <sparkle:deltas>
                 <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.4.0/Clipen353-263.delta" sparkle:deltaFrom="263" length="2862318" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="83bxyw9kqPvNYGB1/lzbqcVQBnm2XCQ01F4V5cBbrWk1LwhN1Jx93OuhdHkv43CxxkWKDrfybGBgbPVf/meXDg==" />
             </sparkle:deltas>
