@@ -6,6 +6,18 @@
         <description>Clipen for macOS</description>
         <language>en</language>
         <item>
+            <title>1.4.0</title>
+            <pubDate>Sat, 01 Aug 2026 19:14:07 +0530</pubDate>
+            <sparkle:version>341</sparkle:version>
+            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.4.0/Clipen.dmg" length="6417309" type="application/octet-stream" sparkle:edSignature="OJtGMCzDZQi/hedjAMP6Gply4jodjlXBUh2lHezKkUsc0NiRdTbIL/jRP0aftrB5pzEt7E2SwqzrtvZCmyQBBA==" />
+            <sparkle:deltas>
+                <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.4.0/Clipen341-263.delta" sparkle:deltaFrom="263" length="2819354" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RLrT5zQ9Xj5Y+ajJoyJf6erimgPIFPz5nBmo+C8YtqMAhfL9Wuue/oTcyeTwXiTCFrEtmzRjM66Bz6O6oEbzAw==" />
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.3.9</title>
             <pubDate>Sat, 01 Aug 2026 14:47:37 +0530</pubDate>
             <sparkle:version>340</sparkle:version>
