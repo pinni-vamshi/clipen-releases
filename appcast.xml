@@ -7,6 +7,18 @@
         <language>en</language>
         <item>
             <title>1.4.0</title>
+            <pubDate>Sat, 01 Aug 2026 23:21:16 +0530</pubDate>
+            <sparkle:version>351</sparkle:version>
+            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.4.0/Clipen.dmg" length="6475917" type="application/octet-stream" sparkle:edSignature="UQzcp9SX3LeZN9BApiuwQgIR/pJZsEZZ0yJa7bSzqSQwFYmBNsPaFLz2raI70H6Fn3AO4YVlvdlXXAWtU5t2Cg==" />
+            <sparkle:deltas>
+                <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.4.0/Clipen351-263.delta" sparkle:deltaFrom="263" length="2862586" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="TRsiFqeULs1wbljSpRdJRv8LKsdAISeaM5oj8oNslSLiq3AQ/hOPRAcMEAKm6D29W4G8jtqNVvcmmUg0ta87DA==" />
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.4.0</title>
             <pubDate>Sat, 01 Aug 2026 23:17:15 +0530</pubDate>
             <sparkle:version>350</sparkle:version>
             <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
