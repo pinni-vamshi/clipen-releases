@@ -3,6 +3,15 @@
     <channel>
         <title>Clipen</title>
         <item>
+            <title>1.5.22 Beta</title>
+            <pubDate>Mon, 17 Aug 2026 23:38:30 +0530</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>477</sparkle:version>
+            <sparkle:shortVersionString>1.5.22</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.5.22/Clipen-1.5.22.477.dmg" length="19621823" type="application/octet-stream" sparkle:edSignature="CMnDGBxTshwBVBg9lxiH0SMKU87HtxNZF7mZ82cV9fcR94loLEPYwfK3ItZDjah6lxac4+LY6ZUG54MjXfcFBA=="/>
+        </item>
+        <item>
             <title>1.5.21 Beta</title>
             <pubDate>Mon, 17 Aug 2026 23:18:52 +0530</pubDate>
             <sparkle:channel>beta</sparkle:channel>
