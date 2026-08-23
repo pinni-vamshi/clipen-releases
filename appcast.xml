@@ -3,6 +3,15 @@
     <channel>
         <title>Clipen</title>
         <item>
+            <title>1.5.89 Beta (AI Model Picker Redesign)</title>
+            <pubDate>Sun, 23 Aug 2026 20:51:07 +0530</pubDate>
+            <sparkle:version>544</sparkle:version>
+            <sparkle:shortVersionString>1.5.89</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:channel>beta</sparkle:channel>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.5.89/Clipen-1.5.89.544.dmg" length="33475916" type="application/octet-stream" sparkle:edSignature="hqjxOrUL8nZucnRU8BmLZDKwSiUJFdjgWgluHWAUymytD3VG6jf73W/NydhdIH/VoXobkm4BV/9E/vbYWH3ODQ==" />
+        </item>
+        <item>
             <title>1.5.88 Beta (Streaming Tab-fill Fix)</title>
             <pubDate>Sun, 23 Aug 2026 20:27:08 +0530</pubDate>
             <sparkle:version>543</sparkle:version>
