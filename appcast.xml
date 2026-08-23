@@ -3,6 +3,15 @@
     <channel>
         <title>Clipen</title>
         <item>
+            <title>1.5.88 Beta (Streaming Tab-fill Fix)</title>
+            <pubDate>Sun, 23 Aug 2026 20:27:08 +0530</pubDate>
+            <sparkle:version>543</sparkle:version>
+            <sparkle:shortVersionString>1.5.88</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:channel>beta</sparkle:channel>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.5.88/Clipen-1.5.88.543.dmg" length="33483556" type="application/octet-stream" sparkle:edSignature="Csce/AN/MOr1F2QpjNgCWzOZGRIkcxBVckeclHGLZX+RqbWqCf3U1+oVZ14QvPB9xjBOOcv9s1X/1KE7V+rYCw==" />
+        </item>
+        <item>
             <title>1.5.87 Beta (File-based Tab-fill Logging)</title>
             <pubDate>Sun, 23 Aug 2026 18:13:29 +0530</pubDate>
             <sparkle:version>542</sparkle:version>
