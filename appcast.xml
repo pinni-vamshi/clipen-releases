@@ -3,6 +3,15 @@
     <channel>
         <title>Clipen</title>
         <item>
+            <title>1.5.91 Beta (Metal Crash Fix — inference serialization)</title>
+            <pubDate>Sun, 23 Aug 2026 23:54:45 +0530</pubDate>
+            <sparkle:version>546</sparkle:version>
+            <sparkle:shortVersionString>1.5.91</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:channel>beta</sparkle:channel>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.5.91/Clipen-1.5.91.546.dmg" length="33498813" type="application/octet-stream" sparkle:edSignature="JNKVvmbP0YVcfZmjwwdUexnMOQMQVAXrNkybzvTsPkAmTfxk5/otrfH83xfQc3JLRHloxUqG+MFmzCqYf7pfAg==" />
+        </item>
+        <item>
             <title>1.5.90 Beta (Memory Blowup + Crash Fix)</title>
             <pubDate>Sun, 23 Aug 2026 22:49:42 +0530</pubDate>
             <sparkle:version>545</sparkle:version>
