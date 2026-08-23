@@ -3,6 +3,15 @@
     <channel>
         <title>Clipen</title>
         <item>
+            <title>1.5.85 Beta (Tab-fill Fix)</title>
+            <pubDate>Sun, 23 Aug 2026 16:16:04 +0530</pubDate>
+            <sparkle:version>540</sparkle:version>
+            <sparkle:shortVersionString>1.5.85</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:channel>beta</sparkle:channel>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.5.85/Clipen-1.5.85.540.dmg" length="28589412" type="application/octet-stream" sparkle:edSignature="Ez155vfLmDbDyG5NZsjtFR7eCEr66j5wxJosryCOSql3HVqwu4gKJM4YNeQxVGCY422LOo4mqi4enLSgokUJDA==" />
+        </item>
+        <item>
             <title>1.5.84 Beta (Tab-fill Reliability + Local AI Models)</title>
             <pubDate>Sun, 23 Aug 2026 15:34:03 +0530</pubDate>
             <sparkle:version>539</sparkle:version>
