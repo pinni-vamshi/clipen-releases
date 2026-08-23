@@ -3,6 +3,15 @@
     <channel>
         <title>Clipen</title>
         <item>
+            <title>1.5.98 Beta (Search Ranking Tag-Boost Fix)</title>
+            <pubDate>Mon, 24 Aug 2026 02:34:00 +0530</pubDate>
+            <sparkle:version>553</sparkle:version>
+            <sparkle:shortVersionString>1.5.98</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:channel>beta</sparkle:channel>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.5.98/Clipen-1.5.98.553.dmg" length="28658841" type="application/octet-stream" sparkle:edSignature="a2MnlTSaB19xr/RxFBoux/maOhtYzEQMBTPNw6IkEVlMRSJWaZULabnYvJ24Az9WN3a//qNNneYNU/BNUIKdAw==" />
+        </item>
+        <item>
             <title>1.5.97 Beta (Search Ranking Diagnostics)</title>
             <pubDate>Mon, 24 Aug 2026 02:25:00 +0530</pubDate>
             <sparkle:version>552</sparkle:version>
