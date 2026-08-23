@@ -3,6 +3,15 @@
     <channel>
         <title>Clipen</title>
         <item>
+            <title>1.5.96 Beta (Inline Positioning + Screen Clamp + Grounding Log)</title>
+            <pubDate>Mon, 24 Aug 2026 02:09:39 +0530</pubDate>
+            <sparkle:version>551</sparkle:version>
+            <sparkle:shortVersionString>1.5.96</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:channel>beta</sparkle:channel>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.5.96/Clipen-1.5.96.551.dmg" length="33526928" type="application/octet-stream" sparkle:edSignature="Q5SHyyATxDY+GUtIrhyEO0MUeMcnADHTYOcjBB45PHPWJZPqkdzJtg6Vnrb+c7rLppfpOlLI33ehW36pYyyWCQ==" />
+        </item>
+        <item>
             <title>1.5.95 Beta (Real Ghost Text Visibility Fix)</title>
             <pubDate>Mon, 24 Aug 2026 01:47:18 +0530</pubDate>
             <sparkle:version>550</sparkle:version>
