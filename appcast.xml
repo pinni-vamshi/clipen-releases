@@ -3,6 +3,15 @@
     <channel>
         <title>Clipen</title>
         <item>
+            <title>1.5.99 Beta (Ghost Text Inline Alignment Fix)</title>
+            <pubDate>Mon, 24 Aug 2026 02:56:00 +0530</pubDate>
+            <sparkle:version>554</sparkle:version>
+            <sparkle:shortVersionString>1.5.99</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:channel>beta</sparkle:channel>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.5.99/Clipen-1.5.99.554.dmg" length="28658867" type="application/octet-stream" sparkle:edSignature="6D08qPAcA3rjLF0IIBD8jAYAsDdN5m/kBGKreYIslMdQhUCkjcKCNggIqkM5tpk/3E3yxd1YzJKG4Eq7QF93Dg==" />
+        </item>
+        <item>
             <title>1.5.98 Beta (Search Ranking Tag-Boost Fix)</title>
             <pubDate>Mon, 24 Aug 2026 02:34:00 +0530</pubDate>
             <sparkle:version>553</sparkle:version>
