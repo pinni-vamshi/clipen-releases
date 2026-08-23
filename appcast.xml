@@ -3,6 +3,15 @@
     <channel>
         <title>Clipen</title>
         <item>
+            <title>1.5.95 Beta (Real Ghost Text Visibility Fix)</title>
+            <pubDate>Mon, 24 Aug 2026 01:47:18 +0530</pubDate>
+            <sparkle:version>550</sparkle:version>
+            <sparkle:shortVersionString>1.5.95</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:channel>beta</sparkle:channel>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.5.95/Clipen-1.5.95.550.dmg" length="33525709" type="application/octet-stream" sparkle:edSignature="2XkhvAZk/i8CP5+lX0nypqY3668coDOvZ+Ecq39GRCjXjVZugQ3rM9a2LMsceCZ1tUhX4gcbD6CeAypBvxnlBQ==" />
+        </item>
+        <item>
             <title>1.5.94 Beta (Ghost Text Zero-Size Rendering Fix)</title>
             <pubDate>Mon, 24 Aug 2026 01:33:11 +0530</pubDate>
             <sparkle:version>549</sparkle:version>
