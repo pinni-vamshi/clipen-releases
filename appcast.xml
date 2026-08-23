@@ -3,6 +3,15 @@
     <channel>
         <title>Clipen</title>
         <item>
+            <title>1.5.94 Beta (Ghost Text Zero-Size Rendering Fix)</title>
+            <pubDate>Mon, 24 Aug 2026 01:33:11 +0530</pubDate>
+            <sparkle:version>549</sparkle:version>
+            <sparkle:shortVersionString>1.5.94</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:channel>beta</sparkle:channel>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.5.94/Clipen-1.5.94.549.dmg" length="33529158" type="application/octet-stream" sparkle:edSignature="9BCEXCiON2p7immUFz9ohV+bJS4hSpuCkhAwvjppBotLvhcGlYS5BUoQditl7vcC6NCis+q7nT6Vt4zS/tGBCw==" />
+        </item>
+        <item>
             <title>1.5.93 Beta (Ghost Text Starvation + Quit Crash Fix)</title>
             <pubDate>Mon, 24 Aug 2026 01:20:06 +0530</pubDate>
             <sparkle:version>548</sparkle:version>
