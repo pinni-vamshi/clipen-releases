@@ -3,6 +3,15 @@
     <channel>
         <title>Clipen</title>
         <item>
+            <title>1.5.97 Beta (Search Ranking Diagnostics)</title>
+            <pubDate>Mon, 24 Aug 2026 02:25:00 +0530</pubDate>
+            <sparkle:version>552</sparkle:version>
+            <sparkle:shortVersionString>1.5.97</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:channel>beta</sparkle:channel>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.5.97/Clipen-1.5.97.552.dmg" length="28656443" type="application/octet-stream" sparkle:edSignature="v3l2jGqMuCa4wih2031RYz1ODwQJFGxEIkVKjr458rJjABS/QWl3U5NJhYXmzroFU8wNTlRKuJAOrWP5y2pIBg==" />
+        </item>
+        <item>
             <title>1.5.96 Beta (Inline Positioning + Screen Clamp + Grounding Log)</title>
             <pubDate>Mon, 24 Aug 2026 02:09:39 +0530</pubDate>
             <sparkle:version>551</sparkle:version>
