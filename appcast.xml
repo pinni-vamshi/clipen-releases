@@ -3,6 +3,15 @@
     <channel>
         <title>Clipen</title>
         <item>
+            <title>1.5.90 Beta (Memory Blowup + Crash Fix)</title>
+            <pubDate>Sun, 23 Aug 2026 22:49:42 +0530</pubDate>
+            <sparkle:version>545</sparkle:version>
+            <sparkle:shortVersionString>1.5.90</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:channel>beta</sparkle:channel>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.5.90/Clipen-1.5.90.545.dmg" length="33501591" type="application/octet-stream" sparkle:edSignature="YL+KR+J/Xr0tsRkH2lnF9poxZitlhGgtmQfUqrfhvjCZMMWn77y5mp4fViEcCTchO6iN8gaVxH0hLsIVd983Ag==" />
+        </item>
+        <item>
             <title>1.5.89 Beta (AI Model Picker Redesign)</title>
             <pubDate>Sun, 23 Aug 2026 20:51:07 +0530</pubDate>
             <sparkle:version>544</sparkle:version>
