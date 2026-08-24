@@ -3,6 +3,15 @@
     <channel>
         <title>Clipen</title>
         <item>
+            <title>1.6.0 Beta (Autocompletion Rebuilt · Smaller App)</title>
+            <pubDate>Mon, 24 Aug 2026 17:00:00 +0530</pubDate>
+            <sparkle:version>555</sparkle:version>
+            <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:channel>beta</sparkle:channel>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.6.0/Clipen-1.6.0.555.dmg" length="15586121" type="application/octet-stream" sparkle:edSignature="lIdbLVaQM/kN0tkP7auW6lklF6UE2J1BshIMCUgijVPplpm8XP/XD801PkA5NvF4krBWEKceUvg85we1P5mXDw==" />
+        </item>
+        <item>
             <title>1.5.99 Beta (Ghost Text Inline Alignment Fix)</title>
             <pubDate>Mon, 24 Aug 2026 02:56:00 +0530</pubDate>
             <sparkle:version>554</sparkle:version>
