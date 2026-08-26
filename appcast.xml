@@ -3,6 +3,15 @@
     <channel>
         <title>Clipen</title>
         <item>
+            <title>1.6.1 Beta (All AI Removed, Signing Key Rotated)</title>
+            <pubDate>Thu, 27 Aug 2026 00:10:55 +0530</pubDate>
+            <sparkle:version>556</sparkle:version>
+            <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:channel>beta</sparkle:channel>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.6.1/Clipen-1.6.1.556.dmg" length="13576862" type="application/octet-stream" sparkle:edSignature="xhbDkJi6Df4lqkz2erIU/+IdY42NhwOnooECR3YY4VMGXA2rbe0368HEzoytxtWTPpxYYC03Eo6Gy9GsVdikAw==" />
+        </item>
+        <item>
             <title>1.6.0 Beta (Autocompletion Rebuilt · Smaller App)</title>
             <pubDate>Mon, 24 Aug 2026 17:00:00 +0530</pubDate>
             <sparkle:version>555</sparkle:version>
