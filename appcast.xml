@@ -3,6 +3,16 @@
     <channel>
         <title>Clipen</title>
         <item>
+            <title>1.6.8 Beta (fixed AI extraction, no timeout, stall guard)</title>
+            <pubDate>Sat, 29 Aug 2026 01:51:36 +0530</pubDate>
+            <sparkle:version>563</sparkle:version>
+            <sparkle:shortVersionString>1.6.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:channel>beta</sparkle:channel>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.6.8/Clipen-1.6.8.563.dmg" length="19519787" type="application/octet-stream" sparkle:edSignature="gEliYkT1Mfz/PQEQjq7YqotMA2vge8HjR5zVMzO+rw4PSXHScGByBBHGwCIYikm28FbuvT2aaPpXr3S7RAz0Aw=="/>
+        </item>
+        <item>
             <title>1.6.6 Beta (crash fix, defaults on by default)</title>
             <pubDate>Fri, 28 Aug 2026 23:26:29 +0530</pubDate>
             <sparkle:version>561</sparkle:version>
