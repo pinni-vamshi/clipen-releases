@@ -3,6 +3,16 @@
     <channel>
         <title>Clipen</title>
         <item>
+            <title>1.6.3 Beta (AI Structuring, Search &amp; Details Panel)</title>
+            <pubDate>Fri, 28 Aug 2026 22:09:14 +0530</pubDate>
+            <sparkle:version>558</sparkle:version>
+            <sparkle:shortVersionString>1.6.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:channel>beta</sparkle:channel>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.6.3/Clipen-1.6.3.558.dmg" length="19521002" type="application/octet-stream" sparkle:edSignature="K0KhzYXfjoq4/JjHtf3FHdofB2E1+s8yoi13ExB31nUb8ErAMPofH9tefx7zHH9emMqIobkIpkkaXWZuIh9/Cw=="/>
+        </item>
+        <item>
             <title>1.6.2 (Similar Items Restored)</title>
             <pubDate>Thu, 27 Aug 2026 13:06:00 +0530</pubDate>
             <sparkle:version>557</sparkle:version>
