@@ -3,6 +3,15 @@
     <channel>
         <title>Clipen</title>
         <item>
+            <title>1.6.9 (AI Structuring, Search &amp; Details Panel)</title>
+            <pubDate>Sat, 29 Aug 2026 02:15:00 +0530</pubDate>
+            <sparkle:version>564</sparkle:version>
+            <sparkle:shortVersionString>1.6.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/latest/download/Clipen.dmg" length="19520279" type="application/octet-stream" sparkle:edSignature="gYC6juNa7RRxEB2IZf/Z53eGqiiDCw/pPvj+w1P7PK1C6jsBCLm7Xd/f/gP/y4ceOWxsqPuqvRangI1ziwkjDw=="/>
+        </item>
+        <item>
             <title>1.6.8 Beta (fixed AI extraction, no timeout, stall guard)</title>
             <pubDate>Sat, 29 Aug 2026 01:51:36 +0530</pubDate>
             <sparkle:version>563</sparkle:version>
