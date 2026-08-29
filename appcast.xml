@@ -9,7 +9,7 @@
             <sparkle:shortVersionString>1.6.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.6.10/Clipen-1.6.10.565.dmg" length="19520403" type="application/octet-stream" sparkle:edSignature="LcWNewOjpc2iUHFGDbO9DFw4dVwxWuTVyZyowfuXOgyW3ugEhB4sgxyLeGuc41lzaRgyrvAinG24eCkIerc5AQ=="/>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/latest/download/Clipen.dmg" length="19520403" type="application/octet-stream" sparkle:edSignature="LcWNewOjpc2iUHFGDbO9DFw4dVwxWuTVyZyowfuXOgyW3ugEhB4sgxyLeGuc41lzaRgyrvAinG24eCkIerc5AQ=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.6.10/Clipen565-564.delta" sparkle:deltaFrom="564" length="479474" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="KQkzDaOVW/DL5o7Y9RT9Jm6IISrIeyPPKCYSUPtE/+aBbE9tZrJCpi5lqQLjYSRE/l8H28Zen3dApJ+qKmqIBg=="/>
                 <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.6.10/Clipen565-563.delta" sparkle:deltaFrom="563" length="704978" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xBQqYt//4lonECHg+87ZwOvVdV4YBA0u2WF8NdCUnkO48zmbx+23gc0BQZiFFRTWgqi9GfcCK42yc/SzN8C0Aw=="/>
