@@ -3,6 +3,17 @@
     <channel>
         <title>Clipen</title>
         <item>
+            <title>1.6.11 Beta (fixed pink analysis ring on grouped/multi-image rows)</title>
+            <pubDate>Sat, 29 Aug 2026 18:17:03 +0530</pubDate>
+            <sparkle:version>566</sparkle:version>
+            <sparkle:shortVersionString>1.6.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:channel>beta</sparkle:channel>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.6.11/Clipen.dmg" length="19522828" type="application/octet-stream" sparkle:edSignature="Ubjvjuk4MQRycYfGHzCrS5qppRWWmJrIMilgOBPPqH7kQ2nCmUfHSG33NY2Gjf0FIBPrsqEKpUnx0vakv5LoCw=="/>
+        </item>
+
+        <item>
             <title>1.6.10 (Details panel usage tracking)</title>
             <pubDate>Sat, 29 Aug 2026 15:25:14 +0530</pubDate>
             <sparkle:version>565</sparkle:version>
