@@ -3,6 +3,24 @@
     <channel>
         <title>Clipen</title>
         <item>
+            <title>1.6.13 Beta (Auto Re-trigger AI Analysis in Details Panel)</title>
+            <pubDate>Sun, 30 Aug 2026 17:02:52 +0530</pubDate>
+            <sparkle:version>568</sparkle:version>
+            <sparkle:shortVersionString>1.6.13</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:channel>beta</sparkle:channel>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.6.13/Clipen-1.6.13.568.dmg" length="20419790" type="application/octet-stream" sparkle:edSignature="ZEtHn+c7LJTM2i57/rF917rB8wbNIT9O8Iypi7faTb3PvIhQsZ1bUEAqBzM2mhI3RYOEjPBVJ6zZrPMogMOWAA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.6.13/Clipen568-567.delta" sparkle:deltaFrom="567" length="885642" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gZHLg0/cMZxBvzWuofma04wT8C4Xa2Rr+3RAn/xoACO6PFdg8PIiGkLfrCz1jBsns2lTI0fmt5JcgA7FrLj+CA=="/>
+                <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.6.13/Clipen568-566.delta" sparkle:deltaFrom="566" length="1238614" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gEGYB/jGOmNfDCp8enjLhg1N8zQeq4Z0pGdE3c9ZQN7gpLRopzqTtzPz+OqU+4FbItHn+mU1QImBWKZ+JY0nDQ=="/>
+                <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.6.13/Clipen568-565.delta" sparkle:deltaFrom="565" length="1275118" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="f9mjGKL7KyNeSwueGvGLzaWpMhEBPNISCY43PTBzVOiXdOnA7xEAOs3L0aaI08eTSABnCeZECanYa4G32IhgCA=="/>
+                <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.6.13/Clipen568-564.delta" sparkle:deltaFrom="564" length="1285430" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="sPRIg0pt6j+HNnR08t9WL2aV8mM/usplgdk2Mvt4jC2fleYXC3WUW/i4MHXR+hMdgNEKp11BwlgxONfXjSKOCA=="/>
+                <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.6.13/Clipen568-563.delta" sparkle:deltaFrom="563" length="1288282" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="PKFR6tQRGfopFTmYyG5ZpdSSjAUcmM9Nlxydnfv8xcdYiw8CPEw2m3lzztM+7fU75btx3OQCnhtSGDPUJ+YIDg=="/>
+            </sparkle:deltas>
+        </item>
+
+        <item>
             <title>1.6.12 Beta (Details Panel Grouping, JSON Tree View, Prompt Update)</title>
             <pubDate>Sun, 30 Aug 2026 06:35:27 +0530</pubDate>
             <sparkle:version>567</sparkle:version>
