@@ -3,14 +3,13 @@
     <channel>
         <title>Clipen</title>
         <item>
-            <title>1.6.13 Beta (Auto Re-trigger AI Analysis in Details Panel)</title>
+            <title>1.6.13 (Auto Re-trigger AI Analysis in Details Panel)</title>
             <pubDate>Sun, 30 Aug 2026 17:02:52 +0530</pubDate>
             <sparkle:version>568</sparkle:version>
             <sparkle:shortVersionString>1.6.13</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <sparkle:channel>beta</sparkle:channel>
-            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.6.13/Clipen-1.6.13.568.dmg" length="20419790" type="application/octet-stream" sparkle:edSignature="ZEtHn+c7LJTM2i57/rF917rB8wbNIT9O8Iypi7faTb3PvIhQsZ1bUEAqBzM2mhI3RYOEjPBVJ6zZrPMogMOWAA=="/>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/latest/download/Clipen.dmg" length="20419790" type="application/octet-stream" sparkle:edSignature="ZEtHn+c7LJTM2i57/rF917rB8wbNIT9O8Iypi7faTb3PvIhQsZ1bUEAqBzM2mhI3RYOEjPBVJ6zZrPMogMOWAA=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.6.13/Clipen568-567.delta" sparkle:deltaFrom="567" length="885642" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gZHLg0/cMZxBvzWuofma04wT8C4Xa2Rr+3RAn/xoACO6PFdg8PIiGkLfrCz1jBsns2lTI0fmt5JcgA7FrLj+CA=="/>
                 <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.6.13/Clipen568-566.delta" sparkle:deltaFrom="566" length="1238614" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gEGYB/jGOmNfDCp8enjLhg1N8zQeq4Z0pGdE3c9ZQN7gpLRopzqTtzPz+OqU+4FbItHn+mU1QImBWKZ+JY0nDQ=="/>
