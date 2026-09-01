@@ -3,6 +3,16 @@
     <channel>
         <title>Clipen</title>
         <item>
+            <title>1.6.22 (AI analysis reliability: fixed redundant main-thread OCR, per-content-type prompts, self-correcting retries)</title>
+            <pubDate>Tue, 01 Sep 2026 23:02:58 +0530</pubDate>
+            <sparkle:version>577</sparkle:version>
+            <sparkle:shortVersionString>1.6.22</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.6.22/Clipen-1.6.22.577.dmg" length="18788990" type="application/octet-stream" sparkle:edSignature="URowa1fTa5YSzPqJ6bNBFFUdaKsdnHylNlVwhAv+wUtnRC/AMktsVRjDv0RWkMRoHJWJ4T8ianvmAYgbhKOlAg=="/>
+        </item>
+
+        <item>
             <title>1.6.21 Beta (Direct PostHog analytics: paste/AI/failure event detail, copy+paste app tracking)</title>
             <pubDate>Tue, 01 Sep 2026 15:26:40 +0530</pubDate>
             <sparkle:version>576</sparkle:version>
