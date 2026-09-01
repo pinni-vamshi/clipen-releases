@@ -3,6 +3,20 @@
     <channel>
         <title>Clipen</title>
         <item>
+            <title>1.6.15 Beta (Smart Analysis Gate + Smart Back Fix)</title>
+            <pubDate>Tue, 01 Sep 2026 06:20:43 +0530</pubDate>
+            <sparkle:version>570</sparkle:version>
+            <sparkle:shortVersionString>1.6.15</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:channel>beta</sparkle:channel>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.6.15/Clipen-1.6.15.570.dmg" length="21122955" type="application/octet-stream" sparkle:edSignature="AvhPl5oScwUKs6T0JHNZP2iltCuA8Lrgyxphpci576B9xoSYsMsp1cNbQvG2M9JW5262CfMTPbRIFi4tyY5bBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.6.15/Clipen570-569.delta" sparkle:deltaFrom="569" length="1163578" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Xfq458AhZgelAkyrVOL9TV3xmEbD4fOsNCVMYfZQkS/nS2jqGWcZpelQuQi5OG73Deif04+6MK6BfNhqozaxCQ=="/>
+            </sparkle:deltas>
+        </item>
+
+        <item>
             <title>1.6.14 Beta (Fix Accessibility Permission Loss on Update)</title>
             <pubDate>Tue, 01 Sep 2026 03:40:28 +0530</pubDate>
             <sparkle:version>569</sparkle:version>
