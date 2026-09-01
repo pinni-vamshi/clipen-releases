@@ -3,6 +3,20 @@
     <channel>
         <title>Clipen</title>
         <item>
+            <title>1.6.19 Beta (Smart Back: generalized last-action tracking + Shift Reverses demo)</title>
+            <pubDate>Tue, 01 Sep 2026 09:24:17 +0530</pubDate>
+            <sparkle:version>574</sparkle:version>
+            <sparkle:shortVersionString>1.6.19</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:channel>beta</sparkle:channel>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.6.19/Clipen-1.6.19.574.dmg" length="21252245" type="application/octet-stream" sparkle:edSignature="BMOacMpL0F4qVkZjhvLQE+CtaakvhDJYmYBCY3+8xLePGlI5fwr5Zh1B9v0lhKAQ8WUWA1EV5q7wZYOmWLNECw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.6.19/Clipen574-572.delta" sparkle:deltaFrom="572" length="985378" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="VWodCtxDDNYqls3YT8VNQmPFUk8qCbyfLInJqLpNkvDy7MRL69u3oSx/kw9Z3KKRO84SJ7gc2a7D1UaZQQJXAg=="/>
+            </sparkle:deltas>
+        </item>
+
+        <item>
             <title>1.6.17 Beta (Smart Back: restore panel-aware undo)</title>
             <pubDate>Tue, 01 Sep 2026 08:42:28 +0530</pubDate>
             <sparkle:version>572</sparkle:version>
