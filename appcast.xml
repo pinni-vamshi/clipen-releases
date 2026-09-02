@@ -3,6 +3,17 @@
     <channel>
         <title>Clipen</title>
         <item>
+            <title>1.6.23 Beta (Deterministic table/JSON structuring, model-download status, crash-safe download resume)</title>
+            <pubDate>Wed, 02 Sep 2026 12:55:36 +0530</pubDate>
+            <sparkle:version>578</sparkle:version>
+            <sparkle:shortVersionString>1.6.23</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:channel>beta</sparkle:channel>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.6.23/Clipen-1.6.23.578.dmg" length="18809637" type="application/octet-stream" sparkle:edSignature="u9H5xt4ero5ySYiRqnNnEOnsLI/fpPYxf5KR8zB24qh1zhaD/UO+facXX5WAkNAgTEt7mG9WZkkckesV0d1oCw=="/>
+        </item>
+
+        <item>
             <title>1.6.22 (AI analysis reliability: fixed redundant main-thread OCR, per-content-type prompts, self-correcting retries)</title>
             <pubDate>Tue, 01 Sep 2026 23:02:58 +0530</pubDate>
             <sparkle:version>577</sparkle:version>
