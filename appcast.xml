@@ -3,6 +3,17 @@
     <channel>
         <title>Clipen</title>
         <item>
+            <title>1.6.28 Beta (Rebuilt multi-file preview, fixed jank cycling onto it)</title>
+            <pubDate>Thu, 03 Sep 2026 14:29:35 +0530</pubDate>
+            <sparkle:version>583</sparkle:version>
+            <sparkle:shortVersionString>1.6.28</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:channel>beta</sparkle:channel>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.6.28/Clipen-1.6.28.583.dmg" length="19701804" type="application/octet-stream" sparkle:edSignature="vCVKtmAHKvcaspt/wbtZqvxRTF9wl6rjHOYmwwa/FfVxxwQ+2kTzusxcyRmxDHZTCIcFZhBzPIz8x3jdMOF7DA=="/>
+        </item>
+
+        <item>
             <title>1.6.27 Beta (Simplified multi-item preview to a bare vertical stack)</title>
             <pubDate>Thu, 03 Sep 2026 12:30:00 +0530</pubDate>
             <sparkle:version>582</sparkle:version>
