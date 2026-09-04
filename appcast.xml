@@ -3,6 +3,17 @@
     <channel>
         <title>Clipen</title>
         <item>
+            <title>1.6.32 Beta (Keep remote control and Voice Control working)</title>
+            <pubDate>Fri, 04 Sep 2026 18:40:00 +0530</pubDate>
+            <sparkle:version>587</sparkle:version>
+            <sparkle:shortVersionString>1.6.32</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:channel>beta</sparkle:channel>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.6.32/Clipen-1.6.32.587.dmg" length="18799361" type="application/octet-stream" sparkle:edSignature="g++2GlLmrGx95L/ZLFcByHyvhm1nj/Heh/BJBcL6zFvfQRTGgbpj+IuLKtxQAHiE6VG67xgiNNxyFRpyPy6uCA=="/>
+        </item>
+
+        <item>
             <title>1.6.31 (Stop hijacking other apps' keystrokes)</title>
             <pubDate>Fri, 04 Sep 2026 17:30:00 +0530</pubDate>
             <sparkle:version>586</sparkle:version>
