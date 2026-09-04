@@ -3,13 +3,12 @@
     <channel>
         <title>Clipen</title>
         <item>
-            <title>1.6.31 Beta (Stop hijacking other apps' keystrokes)</title>
+            <title>1.6.31 (Stop hijacking other apps' keystrokes)</title>
             <pubDate>Fri, 04 Sep 2026 17:30:00 +0530</pubDate>
             <sparkle:version>586</sparkle:version>
             <sparkle:shortVersionString>1.6.31</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <sparkle:channel>beta</sparkle:channel>
             <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.6.31/Clipen-1.6.31.586.dmg" length="18800758" type="application/octet-stream" sparkle:edSignature="f4a6pm5FL5zV8BPN4SLCpZXFrM/0aitt3WrecwliADxf/7P6z0uYyaMhV6ESpA0O9NXNl5nDaOjBJEhvoGLaCg=="/>
         </item>
 
