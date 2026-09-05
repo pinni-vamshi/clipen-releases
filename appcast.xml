@@ -3,6 +3,17 @@
     <channel>
         <title>Clipen</title>
         <item>
+            <title>1.6.33 Beta (Onboarding restyled to match the site)</title>
+            <pubDate>Sat, 05 Sep 2026 17:45:00 +0530</pubDate>
+            <sparkle:version>588</sparkle:version>
+            <sparkle:shortVersionString>1.6.33</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:channel>beta</sparkle:channel>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.6.33/Clipen-1.6.33.588.dmg" length="18811056" type="application/octet-stream" sparkle:edSignature="C2c5oOQbNuNWFnNyS0xI3hxdSjC1Q9BGEHT0UPLPVVu46bivVwLL71UIUBkskRqSGQaIs/xG3bkdcUtg3lm9CA=="/>
+        </item>
+
+        <item>
             <title>1.6.32 Beta (Keep remote control and Voice Control working)</title>
             <pubDate>Fri, 04 Sep 2026 18:40:00 +0530</pubDate>
             <sparkle:version>587</sparkle:version>
