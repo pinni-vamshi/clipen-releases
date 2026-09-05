@@ -3,6 +3,17 @@
     <channel>
         <title>Clipen</title>
         <item>
+            <title>1.6.38 Beta (Onboarding pacing, Back restart, layout)</title>
+            <pubDate>Sat, 05 Sep 2026 23:30:00 +0530</pubDate>
+            <sparkle:version>593</sparkle:version>
+            <sparkle:shortVersionString>1.6.38</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:channel>beta</sparkle:channel>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.6.38/Clipen-1.6.38.593.dmg" length="18816962" type="application/octet-stream" sparkle:edSignature="gqem9oNL5APvoXtj9Dq2y5DzbdskppE/7lx8AvzUI9+Qd352D39Dk1d8/rWT1CDseuL0t3pT4k0gksElP0iOAw=="/>
+        </item>
+
+        <item>
             <title>1.6.37 Beta (Full-width paste target on page 2)</title>
             <pubDate>Sat, 05 Sep 2026 23:05:00 +0530</pubDate>
             <sparkle:version>592</sparkle:version>
