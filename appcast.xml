@@ -3,6 +3,17 @@
     <channel>
         <title>Clipen</title>
         <item>
+            <title>1.6.37 Beta (Full-width paste target on page 2)</title>
+            <pubDate>Sat, 05 Sep 2026 23:05:00 +0530</pubDate>
+            <sparkle:version>592</sparkle:version>
+            <sparkle:shortVersionString>1.6.37</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:channel>beta</sparkle:channel>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.6.37/Clipen-1.6.37.592.dmg" length="18818245" type="application/octet-stream" sparkle:edSignature="CLqZ0J5pzC+TQzdY9UZR1Q1d61mfv4h0jufFaxwgUXCoDyfw/OMwnrYKOyozw9Jqqo7u1+US4cc9ky19hOA9CA=="/>
+        </item>
+
+        <item>
             <title>1.6.36 Beta (Onboarding: copy gate, real demo, core loop only)</title>
             <pubDate>Sat, 05 Sep 2026 20:45:00 +0530</pubDate>
             <sparkle:version>591</sparkle:version>
