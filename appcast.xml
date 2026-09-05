@@ -3,6 +3,17 @@
     <channel>
         <title>Clipen</title>
         <item>
+            <title>1.6.34 Beta (Onboarding page 2 demonstrates the ring)</title>
+            <pubDate>Sat, 05 Sep 2026 19:10:00 +0530</pubDate>
+            <sparkle:version>589</sparkle:version>
+            <sparkle:shortVersionString>1.6.34</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:channel>beta</sparkle:channel>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.6.34/Clipen-1.6.34.589.dmg" length="19527668" type="application/octet-stream" sparkle:edSignature="kVsO0Y4aRtoq6Y92y463YRw+VOc0aYfKJrMbFlhLt+bhbo5UIw3rLTUXBVnWo05C2LfuNwRR2FgnIYdH6jdSAw=="/>
+        </item>
+
+        <item>
             <title>1.6.33 Beta (Onboarding restyled to match the site)</title>
             <pubDate>Sat, 05 Sep 2026 17:45:00 +0530</pubDate>
             <sparkle:version>588</sparkle:version>
