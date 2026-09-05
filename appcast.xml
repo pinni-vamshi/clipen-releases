@@ -3,6 +3,17 @@
     <channel>
         <title>Clipen</title>
         <item>
+            <title>1.6.41 Beta (Per-page panel heights, matched headings)</title>
+            <pubDate>Sun, 06 Sep 2026 00:55:00 +0530</pubDate>
+            <sparkle:version>596</sparkle:version>
+            <sparkle:shortVersionString>1.6.41</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:channel>beta</sparkle:channel>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.6.41/Clipen-1.6.41.596.dmg" length="19524515" type="application/octet-stream" sparkle:edSignature="snSS423M+OldpaXP+H4iHlmHfDWouB1drcVV+UhDnpHTwtT9umX/Jt1+75t3FoRA5/ly5WeC1+kxFi5ydoNHBg=="/>
+        </item>
+
+        <item>
             <title>1.6.40 Beta (Onboarding stripped down)</title>
             <pubDate>Sun, 06 Sep 2026 00:30:00 +0530</pubDate>
             <sparkle:version>595</sparkle:version>
