@@ -3,6 +3,16 @@
     <channel>
         <title>Clipen</title>
         <item>
+            <title>1.6.45 (Onboarding fixes, clearer Details setup)</title>
+            <pubDate>Sun, 06 Sep 2026 06:25:00 +0530</pubDate>
+            <sparkle:version>600</sparkle:version>
+            <sparkle:shortVersionString>1.6.45</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.6.45/Clipen-1.6.45.600.dmg" length="18843476" type="application/octet-stream" sparkle:edSignature="MIhyGp+k94CRxIdxQWlqRr7MDuvezCIrYYb1ZfQyAK+HzSIht2HX9YUCXbKm3TcGRVSkfMl32qRa6nL1rMORDw=="/>
+        </item>
+
+        <item>
             <title>1.6.44 Beta (Better AI extraction, JSON repair)</title>
             <pubDate>Sun, 06 Sep 2026 03:20:00 +0530</pubDate>
             <sparkle:version>599</sparkle:version>
