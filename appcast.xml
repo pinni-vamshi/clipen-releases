@@ -3,6 +3,17 @@
     <channel>
         <title>Clipen</title>
         <item>
+            <title>1.6.51 Beta (Clearer sounds toggle)</title>
+            <pubDate>Mon, 07 Sep 2026 04:20:00 +0530</pubDate>
+            <sparkle:version>606</sparkle:version>
+            <sparkle:shortVersionString>1.6.51</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:channel>beta</sparkle:channel>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.6.51/Clipen-1.6.51.606.dmg" length="18875627" type="application/octet-stream" sparkle:edSignature="HrQ2Dv+59WmVlpj1aL8v940CIDvoIylHDEae8EPPbV909DwKOoJGUAV6BnNzzBMxkTLvDAT5xQnsY2UMAa0vDg=="/>
+        </item>
+
+        <item>
             <title>1.6.50 Beta (Rewritten AI extraction prompts)</title>
             <pubDate>Mon, 07 Sep 2026 04:05:00 +0530</pubDate>
             <sparkle:version>605</sparkle:version>
