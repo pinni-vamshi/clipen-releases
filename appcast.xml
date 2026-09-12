@@ -3,6 +3,16 @@
     <channel>
         <title>Clipen</title>
         <item>
+            <title>1.6.54 (Hints toggle matches Sounds)</title>
+            <pubDate>Sat, 13 Sep 2026 03:00:00 +0530</pubDate>
+            <sparkle:version>609</sparkle:version>
+            <sparkle:shortVersionString>1.6.54</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.6.54/Clipen-1.6.54.609.dmg" length="18879444" type="application/octet-stream" sparkle:edSignature="mhpPKqevJ0C4kNMB34L6ARqZpg7WKSjeQYxJhjVowE+FjLAKX4xQaDeIVa6BSZHAq3LbJrCXIBTgWZd88AogCA=="/>
+        </item>
+
+        <item>
             <title>1.6.53 (Sounds toggle: one pill)</title>
             <pubDate>Fri, 12 Sep 2026 18:20:00 +0530</pubDate>
             <sparkle:version>608</sparkle:version>
