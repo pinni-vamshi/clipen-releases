@@ -3,6 +3,17 @@
     <channel>
         <title>Clipen</title>
         <item>
+            <title>1.6.55 Beta (Details field-by-field, packed short codes)</title>
+            <pubDate>Mon, 14 Sep 2026 09:50:00 +0530</pubDate>
+            <sparkle:version>610</sparkle:version>
+            <sparkle:shortVersionString>1.6.55</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:channel>beta</sparkle:channel>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.6.55/Clipen-1.6.55.610.dmg" length="18894057" type="application/octet-stream" sparkle:edSignature="pt8KqZOsFvWcGQUGtrkp1CuOfPlvRL/uGHPJ9Ie+h+xJ+2pBCJRreUsrYzH7qs+o12gro9VbkU82EaeP9kZcBA=="/>
+        </item>
+
+        <item>
             <title>1.6.54 (Hints toggle matches Sounds)</title>
             <pubDate>Sat, 13 Sep 2026 03:00:00 +0530</pubDate>
             <sparkle:version>609</sparkle:version>
