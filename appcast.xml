@@ -3,13 +3,12 @@
     <channel>
         <title>Clipen</title>
         <item>
-            <title>1.6.58 Beta (New collections keep their first copy)</title>
+            <title>1.6.58 (New collections keep their first copy)</title>
             <pubDate>Tue, 15 Sep 2026 10:00:00 +0530</pubDate>
             <sparkle:version>613</sparkle:version>
             <sparkle:shortVersionString>1.6.58</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <sparkle:channel>beta</sparkle:channel>
             <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.6.58/Clipen-1.6.58.613.dmg" length="18896313" type="application/octet-stream" sparkle:edSignature="CA3zkZymo2tof/IX8fZnXceRIS7lunuhWfs80iqZImojn1AYnZ5GkU9GZQ0QOmipccNV8s2MBk5GMa78Dx0oCg=="/>
         </item>
 
