@@ -3,6 +3,17 @@
     <channel>
         <title>Clipen</title>
         <item>
+            <title>1.6.60 Beta (Details tip shows you the key)</title>
+            <pubDate>Sun, 20 Sep 2026 18:00:00 +0530</pubDate>
+            <sparkle:version>615</sparkle:version>
+            <sparkle:shortVersionString>1.6.60</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:channel>beta</sparkle:channel>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.6.60/Clipen-1.6.60.615.dmg" length="18908293" type="application/octet-stream" sparkle:edSignature="A8zs1uDCcmu01EugXdKaQ99qxkOEnk4VwnzmQoaY+oHNH2ipp/psch41tWM+DJV3u/NbrMm50DjP73IpUJimBw=="/>
+        </item>
+
+        <item>
             <title>1.6.59 (Live history, pin and group counts)</title>
             <pubDate>Sun, 20 Sep 2026 10:00:00 +0530</pubDate>
             <sparkle:version>614</sparkle:version>
