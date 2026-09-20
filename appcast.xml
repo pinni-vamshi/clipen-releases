@@ -3,6 +3,16 @@
     <channel>
         <title>Clipen</title>
         <item>
+            <title>1.6.59 (Live history, pin and group counts)</title>
+            <pubDate>Sun, 20 Sep 2026 10:00:00 +0530</pubDate>
+            <sparkle:version>614</sparkle:version>
+            <sparkle:shortVersionString>1.6.59</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.6.59/Clipen-1.6.59.614.dmg" length="18899787" type="application/octet-stream" sparkle:edSignature="sBvaLroPUSiD08o8xG+xYeCkEtTHDktri6Sbrv3vAAYSi3BtksBOnTmG6csQbmI1XtfZpN2HprKqqZaQ5cgTCw=="/>
+        </item>
+
+        <item>
             <title>1.6.58 (New collections keep their first copy)</title>
             <pubDate>Tue, 15 Sep 2026 10:00:00 +0530</pubDate>
             <sparkle:version>613</sparkle:version>
