@@ -3,6 +3,17 @@
     <channel>
         <title>Clipen</title>
         <item>
+            <title>1.6.61 Beta (PDF maths, whole-page copies, non-ASCII fix)</title>
+            <pubDate>Fri, 25 Sep 2026 18:00:00 +0530</pubDate>
+            <sparkle:version>616</sparkle:version>
+            <sparkle:shortVersionString>1.6.61</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:channel>beta</sparkle:channel>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.6.61/Clipen-1.6.61.616.dmg" length="18914149" type="application/octet-stream" sparkle:edSignature="zoPmaa4tZfZtuQrBNEnGgvDwdri9Ch9ZzY015o7xryyhRePGcGqPSUDyDZjwhRISA2yNTYuRRXMl3yAqv3eFAQ=="/>
+        </item>
+
+        <item>
             <title>1.6.60 Beta (Details tip shows you the key)</title>
             <pubDate>Sun, 20 Sep 2026 18:00:00 +0530</pubDate>
             <sparkle:version>615</sparkle:version>
