@@ -3,6 +3,16 @@
     <channel>
         <title>Clipen</title>
         <item>
+            <title>1.6.62 (Clearer unreadable-copy wording, one HTML text path)</title>
+            <pubDate>Fri, 25 Sep 2026 20:30:00 +0530</pubDate>
+            <sparkle:version>617</sparkle:version>
+            <sparkle:shortVersionString>1.6.62</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/pinni-vamshi/clipen-releases/releases/download/v1.6.62/Clipen-1.6.62.617.dmg" length="18912492" type="application/octet-stream" sparkle:edSignature="kIKLJGO0Hc2SXwYwR0NzBnmRqKJwBP3DWnDjBwPfTHEzvr1GmSDQFmzWLRICwPg3Y05CeAYCDxHA6Nx2VsMcDg=="/>
+        </item>
+
+        <item>
             <title>1.6.61 Beta (PDF maths, whole-page copies, non-ASCII fix)</title>
             <pubDate>Fri, 25 Sep 2026 18:00:00 +0530</pubDate>
             <sparkle:version>616</sparkle:version>
